@@ -1,0 +1,1 @@
+print("hello troy, welcome to coding temple!")
